@@ -22,7 +22,7 @@ namespace E_Players_AspNetCore.Models
                 File.Create(path);
             }
         }
-
+        
         public List<string> ReadAllLinesCSV(string path)
         {
             
