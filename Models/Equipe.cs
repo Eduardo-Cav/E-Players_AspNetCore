@@ -79,7 +79,7 @@ namespace E_Players_AspNetCore.Models
         
         public void Delete(int id)
         {
-            List<string> lines = new List<string>();
+            List<string> lines = ReadAllLinesCSV(PATH);
 
             //remover a linha que o código vai ser alterado
             lines.RemoveAll(x => x.Split(";")[0] == id.ToString());
