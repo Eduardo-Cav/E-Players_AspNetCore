@@ -72,3 +72,41 @@ C:\Users\fic\Desktop\E-Players_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspN
 C:\Users\fic\Desktop\E-Players_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.pdb
 C:\Users\fic\Desktop\E-Players_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.genruntimeconfig.cache
 C:\Users\fic\Desktop\E-Players_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.csproj.CopyComplete
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\E-Players_AspNetCore.exe
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\E-Players_AspNetCore.deps.json
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\E-Players_AspNetCore.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\E-Players_AspNetCore.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\E-Players_AspNetCore.dll
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\E-Players_AspNetCore.pdb
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\E-Players_AspNetCore.Views.dll
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\bin\Debug\netcoreapp3.1\E-Players_AspNetCore.Views.pdb
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.MvcApplicationPartsAssemblyInfo.cache
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.RazorAssemblyInfo.cache
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.RazorAssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.TagHelpers.input.cache
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.TagHelpers.output.cache
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.RazorCoreGenerate.cache
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Equipe\Index.cshtml.g.cs
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.RazorTargetAssemblyInfo.cache
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.RazorTargetAssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.Views.pdb
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\E-Players_AspNetCore.StaticWebAssets.Manifest.cache
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\staticwebassets\E-Players_AspNetCore.StaticWebAssets.xml
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.dll
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.pdb
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.genruntimeconfig.cache
+E:\Meus Documentos\Área de Trabalho\EPlayers_AspNetCore\obj\Debug\netcoreapp3.1\E-Players_AspNetCore.csproj.CopyComplete
+E:\Meus Documentos\Área de Trabalho\E-Players_AspNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Jogador\Index.cshtml.g.cs
