@@ -11,12 +11,18 @@
 
     <div class="campo">
         <label>ID Jogador</label>
-        <input type="text" name="IdJogador" />
+        <input name="IdJogador" id="IdJogador" />
     </div>
 
     <div class="campo">
         <label>ID Equipe</label>
-        <input type="text" name="IdEquipe" />
+        <select name="IdEquipe" id="IdEquipe">
+            <option value = "0">Selecione uma oção abaixo...</option>
+            @foreach (var item in ViewBag.teams)
+            {
+                <option value ="@item.IdEquipe">@item.Nome</option>
+            }
+        </select>
     </div>
 
     <div class="campo">
@@ -26,7 +32,7 @@
 
     <div class="campo">
         <label>Email</label>
-        <input type="text" name="Email" />
+        <input type="Email" name="Email" />
     </div>
 
     <div class="campo">
@@ -44,11 +50,11 @@
         <th>Email</th>
     </thead>
     <tbody>
-        @foreach(Jogador j in ViewBag.players){
+        @foreach(Jogador p in ViewBag.players){
             <tr>
-                <td>@j.IdJogador</td>
-                <td>@j.Nome</td>
-                <td>@j.Email</td>
+                <td>@p.IdJogador</td>
+                <td>@p.Nome</td>
+                <td>@p.Email</td>
             </tr>
         }
     </tbody>

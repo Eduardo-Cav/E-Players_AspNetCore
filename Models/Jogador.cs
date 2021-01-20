@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.IO;
 using E_Players_AspNetCore.Interfaces;
@@ -15,7 +16,7 @@ namespace E_Players_AspNetCore.Models
         }
         
         public string Prepare(Jogador P){
-            return $"{P.IdJogador};{P.Nome};{P.IdEquipe}";
+            return $"{P.IdJogador};{P.Nome};{P.Email};{P.Senha}";
         }
 
         public int IdJogador  { get; set; } // Identificador único do jogador
@@ -66,9 +67,10 @@ namespace E_Players_AspNetCore.Models
                 Jogador player = new Jogador();
 
                 // atribuimos os valores no objeto
-                player.IdJogador = int.Parse(line[0]);
+                player.IdJogador = Int32.Parse(line[0]);
                 player.Nome = line[1];
-                player.IdEquipe = line[2];
+                player.Email = line[2];
+                player.Senha = line[3];
 
                 // adicionando o jogador na lista playerL
                 playerL.Add(player);

@@ -14427,6 +14427,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\Meus Documentos\\Área de Trabalho\\E-Players_AspNetCore\\Views\\Login\\Index.cshtml",
+      "TargetPath": "Views\\Login\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\Meus Documentos\\Área de Trabalho\\E-Players_AspNetCore\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
